@@ -23,6 +23,9 @@
                         <div class="footer-item link">
                             <h4 class="widget-title">Explore</h4>
                             <ul>
+                            <li>
+                                    <a href="index.php">Home </a>
+                                </li>
                                 <li>
                                     <a href="about-us.php">About Us</a>
                                 </li>

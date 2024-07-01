@@ -6,8 +6,8 @@
                     <!-- Single Itme -->
                     <div class="col-lg-4 col-md-6 item">
                         <div class="footer-item about">
-                            <img class="logo" src="images/gt-logo.png" alt="Logo">
-                            <p>
+                            <img style="width: 450px; height: 100px;" class="logo" src="images/gt-white.png" alt="Logo">
+                            <p style="text-align: justify;" >
                             TLL General Trade is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.
                             </p>
                             <form action="#">

@@ -28,6 +28,17 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <!-- ========== End Stylesheet ========== -->
+    <style>
+/* Hide .badge on mobile devices */
+@media only screen and (max-width: 767px) {
+    .badge {
+        display: none;
+    }
+    #about-mobile{
+        font-size: 25px !important;
+    }
+}
+</style>
 
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -101,8 +112,8 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6 offset-lg-1">
                     <div class="about-style-one-info">
                         
-                        <h5 class="title">Your Trusted Partner for Premium Pulses,  <br> Wheat, and Peanuts in Dubai </h5>
-                        <p>
+                        <h2 id="about-mobile" class="">Your Trusted Partner for Premium Pulses, Wheat, and Peanuts in Dubai </h2>
+                        <p style="text-align: justify;">
                         TLL General Trade is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.
                         </p>
                         <div class="fun-fact-style-flex mt-35">

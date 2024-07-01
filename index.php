@@ -28,6 +28,17 @@
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <!-- ========== End Stylesheet ========== -->
+    <style>
+/* Hide .badge on mobile devices */
+@media only screen and (max-width: 767px) {
+    .badge {
+        display: none;
+    }
+    #about-mobile{
+        font-size: 25px !important;
+    }
+}
+</style>
 
     <!--[if lte IE 9]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
@@ -92,7 +103,7 @@
                         <div class="row align-center">
                             <div class="col-xl-9">
                                 <div class="content">
-                                    <div class="badge">
+                                    <div  class="badge">
                                         <div class="curve-text">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" version="1.1">
                                                 <path id="textPath" d="M 0,75 a 75,75 0 1,1 0,1 z"></path>
@@ -148,8 +159,8 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6 offset-lg-1">
                 <div class="about-style-one-info">
                         
-                        <h2 class="">Your Trusted Partner for Premium Pulses, Wheat, and Peanuts in Dubai </h2>
-                        <p>
+                        <h2 id="about-mobile" class="">Your Trusted Partner for Premium Pulses, Wheat, and Peanuts in Dubai </h2>
+                        <p style="text-align: justify;">
                         TLL General Trade is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.
                         </p>
                         <div class="fun-fact-style-flex mt-35">
@@ -219,7 +230,7 @@
                             <img src="assets/img/illustration/8.png" alt="Image Not Found">
                         </div>
             
-                        <p>
+                        <p style="text-align: justify;">
                         At TLL General Trade, we offer unparalleled value through direct sourcing from trusted Indian suppliers, ensuring premium quality via rigorous checks. Our efficient operations translate to competitive pricing, while our commitment to timely delivery keeps your business running smoothly. We provide custom solutions with flexible packaging and quantities, tailoring our service to your specific needs. Choose TLL for a reliable partner in agricultural trade.
                         </p>
                         <ul class="list-standard">

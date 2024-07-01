@@ -30,7 +30,7 @@ $phone = $_POST['phone'];
 $comments = stripslashes($_POST['comments']);
 
 // Email configuration
-$address = "aadarshkavita@gmail.com";
+$address = "info@tllgt.com";
 $e_subject = 'Contact Form';
 $e_body = "You have been contacted by $name, their additional message is as follows." . PHP_EOL . PHP_EOL;
 $e_content = "\"$comments\"" . PHP_EOL . PHP_EOL;

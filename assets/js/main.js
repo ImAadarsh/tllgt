@@ -475,7 +475,7 @@
 					$('#message').hide();
 
 					$('#submit')
-						.after('<img src="assets/img/ajax-loader.gif" class="loader" />')
+						.after('<img src="assets/img/ajax-loader.gif" style="width: 20px !important;" class="loader" />')
 						.attr('disabled', 'disabled');
 
 					$.post(action, {

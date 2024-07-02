@@ -7,7 +7,7 @@
                             <i class="fas fa-clock"></i> Opening Hours : Monday- Saturday, 08:00 am - 07:00pm
                         </li>
                         <li>
-                            <a href="tel:+971-42252333"><i class="fas fa-phone-alt"></i> +971-42252333</a>
+                            <a href="tel:+971 43287289"><i class="fas fa-phone-alt"></i> +971 43287289</a>
                         </li>
                     </ul>
                 </div>

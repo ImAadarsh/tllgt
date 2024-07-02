@@ -6,11 +6,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="title" content="Tll General Trade">
-    <meta name="description" content="TLL General Trade is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.">
+    <meta name="title" content="TLL General Trading">
+    <meta name="description" content="TLL General Trading is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.">
 
     <!-- ========== Page Title ========== -->
-    <title>Tll General Trade | Products</title>
+    <title>TLL General Trading | Products</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">

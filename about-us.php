@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Tll General Trade">
+    <meta name="description" content="TLL General Trading">
 
     <!-- ========== Page Title ========== -->
-    <title>Tll General Trade | About Us</title>
+    <title>TLL General Trading | About Us</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
@@ -114,7 +114,7 @@
                         
                         <h2 id="about-mobile" class="">Your Trusted Partner for Premium Pulses, Wheat, and Peanuts in Dubai </h2>
                         <p style="text-align: justify;">
-                        TLL General Trade is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.
+                        The Leading League General Trading LLC is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.
                         </p>
                         <div class="fun-fact-style-flex mt-35">
                             <div class="counter">

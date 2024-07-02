@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Valid Theme
-    Template Name   : Tll General Trade
+    Template Name   : TLL General Trading
     Version         : 1.0
     
 * ================================================================= */

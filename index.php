@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Tll General Trade">
+    <meta name="description" content="TLL General Trading">
 
     <!-- ========== Page Title ========== -->
-    <title>Tll General Trade | Home</title>
+    <title>TLL General Trading | Home</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
@@ -107,13 +107,13 @@
                                         <div class="curve-text">
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" version="1.1">
                                                 <path id="textPath" d="M 0,75 a 75,75 0 1,1 0,1 z"></path>
-                                                <text><textPath href="#textPath">TLL General Trade</textPath></text>
+                                                <text><textPath href="#textPath">TLL General Trading</textPath></text>
                                             </svg>
                                             <a href="#" class="popup-youtube"><i class="fas fa-arrow-right"></i></a>
                                         </div>
                                     </div>
                                     <div class="info">
-                                        <h2 style="font-size: 65px;"><strong>Welcome to</strong> Tll General Trade</h2>
+                                        <h2 style="font-size: 65px;"><strong>Welcome to</strong> TLL General Trading</h2>
                                         <p>
                                         Your Trusted Partner for Premium Pulses, Wheat, and Peanuts in Dubai
                                         Sourcing the Finest Products from India to Meet Your Needs
@@ -161,7 +161,7 @@
                         
                         <h2 id="about-mobile" class="">Your Trusted Partner for Premium Pulses, Wheat, and Peanuts in Dubai </h2>
                         <p style="text-align: justify;">
-                        TLL General Trade is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.
+                        The Leading League General Trading LLC is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.
                         </p>
                         <div class="fun-fact-style-flex mt-35">
                             <div class="counter">
@@ -206,7 +206,7 @@
                 <div class="col-lg-6 offset-lg-3">
                     <div class="site-heading text-center">
                         <h5 class="sub-title">Why Choose Us?</h5>
-                        <h2 class="title">Explore More About<br>TLL General trade</h2>
+                        <h2 class="title">Explore More About<br>TLL General Trading</h2>
                     </div>
                 </div>
             </div>
@@ -231,7 +231,7 @@
                         </div>
             
                         <p style="text-align: justify;">
-                        At TLL General Trade, we offer unparalleled value through direct sourcing from trusted Indian suppliers, ensuring premium quality via rigorous checks. Our efficient operations translate to competitive pricing, while our commitment to timely delivery keeps your business running smoothly. We provide custom solutions with flexible packaging and quantities, tailoring our service to your specific needs. Choose TLL for a reliable partner in agricultural trade.
+                        At TLL General Trading, we offer unparalleled value through direct sourcing from trusted Indian suppliers, ensuring premium quality via rigorous checks. Our efficient operations translate to competitive pricing, while our commitment to timely delivery keeps your business running smoothly. We provide custom solutions with flexible packaging and quantities, tailoring our service to your specific needs. Choose TLL for a reliable partner in agricultural trade.
                         </p>
                         <ul class="list-standard">
                             <li>Quality Assurance</li>
@@ -494,7 +494,7 @@ ADDRESS:
                             <li>
                                 <h4>Premium Indian Exports</h4>
                                 <p style="text-align: justify;">
-                                TLL General Trade specializes in importing high-quality pulses, wheat, and peanuts from India to Dubai. We offer a wide range of products, carefully sourced from trusted suppliers to meet the diverse needs of the UAE market.
+                                TLL General Trading specializes in importing high-quality pulses, wheat, and peanuts from India to Dubai. We offer a wide range of products, carefully sourced from trusted suppliers to meet the diverse needs of the UAE market.
                                 </p>
                             </li>
                             <li>

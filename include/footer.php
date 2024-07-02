@@ -8,7 +8,7 @@
                         <div class="footer-item about">
                             <img style="width: 450px; height: 100px;" class="logo" src="images/gt-white.png" alt="Logo">
                             <p style="text-align: justify;" >
-                            TLL General Trade is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.
+                            TLL General Trading is a leading importer and distributor of high-quality agricultural products in Dubai. Specializing in pulses, wheat, peanuts, and more, we bridge the gap between India's bountiful harvests and the UAE market's growing demand.
                             </p>
                             <form action="#">
                                 <input type="email" placeholder="Your Email" class="form-control" name="email">
@@ -88,7 +88,7 @@
             <div class="footer-bottom text-center">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p>TLLGT &copy; Copyright 2024. Design & Developed By <a href="https://Endeavourdigital.in">Endeavour Digital</a></p>
+                        <p>The Leading League General Trading LLC &copy; Copyright 2024. Design & Developed By <a href="https://Endeavourdigital.in">Endeavour Digital</a></p>
                     </div>
                 </div>
             </div>

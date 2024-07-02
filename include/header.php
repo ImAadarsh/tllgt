@@ -4,7 +4,7 @@
                 <div class="col-lg-8">
                     <ul class="item-flex">
                         <li>
-                            <i class="fas fa-clock"></i> Opening Hours : Sunday- Friday, 08:00 am - 05:00pm
+                            <i class="fas fa-clock"></i> Opening Hours : Sunday- Saturday, 08:00 am - 07:00pm
                         </li>
                         <li>
                             <a href="tel:+971-42252333"><i class="fas fa-phone-alt"></i> +971-42252333</a>

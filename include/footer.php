@@ -74,7 +74,7 @@
                                     </div>
                                     <div class="content">
                                         <strong>Phone:</strong>
-                                        <a href="tel:+971 43287289">+971 43287289</a>
+                                        <a href="tel:+971-42252333">+971-42252333</a>
                                     </div>
                                 </li>
                             </ul>

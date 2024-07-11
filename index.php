@@ -451,7 +451,7 @@
                             <li>
                                 <div class="content">
                                     <h5 class="title">Hotline</h5>
-                                    <a href="">+971 43287289</a>
+                                    <a href="">+971-42252333</a>
                                 </div>
                             </li>
                             <li>
